@@ -24,7 +24,7 @@ I'm a Computer Engineering student interested in both hardware and software.
 * Urdu
 * English
 * Saraiki
-* Persian - learning
+* Persian — learning
 * Turkish — currently learning
 
 ## Projects
