@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Yamin Naqvi👋
 
-<!--
-**YaminNaqvi/YaminNaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in both hardware and software.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Computer Engineering student
+* 💻 Interested in hardware and software
+* 🌐 Interested in web development
+* 👨‍🏫 Worked as a Basic Web Development Instructor for one year
+* 🌱 Currently learning new technologies and improving my programming skills
+
+## Technical Skills
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* PHP
+* jQuery
+
+## Languages
+
+* Urdu
+* English
+* Saraiki
+* Persian - learning
+* Turkish — currently learning
+
+## Projects
+
+I use GitHub to share my class projects, programming exercises, and web development projects.
+
+## Interests
+
+* Web Development
+* Programming
+* Computer Hardware
+* Software Development
+* Computer Engineering
+
